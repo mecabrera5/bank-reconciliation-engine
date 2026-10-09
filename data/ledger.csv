@@ -1,0 +1,307 @@
+ledger_id,date,reference,category,amount
+L0001,2025-01-01,Globex Parts 4349,supplier,-219.05
+L0002,2025-01-01,INV-7566 Contoso Ltd,customer_payment,1151.08
+L0003,2025-01-01,Umbrella Trading 7770,supplier,-334.18
+L0004,2025-01-02,Utilities 4681,utilities,-644.86
+L0005,2025-01-03,Initech Goods 8532,supplier,-1944.63
+L0006,2025-01-03,Payroll 3068,payroll,-2532.82
+L0007,2025-01-03,Payroll batch item 6439,payroll,-1339.93
+L0008,2025-01-03,Payroll batch item 8486,payroll,-220.11
+L0009,2025-01-03,Supplier invoice 8802,supplier,-2427.10
+L0010,2025-01-04,Globex Parts 3594,supplier,-1679.22
+L0011,2025-01-04,INV-4811 Adventure Works,customer_payment,3256.31
+L0012,2025-01-04,Umbrella Trading 4611,supplier,-2405.14
+L0013,2025-01-05,INV-5632 Wingtip Corp,customer_payment,473.18
+L0014,2025-01-05,Payroll batch item 8213,payroll,-330.69
+L0015,2025-01-06,Rent 2307,rent,-1270.49
+L0016,2025-01-06,Stark Logistics 8147,supplier,-1944.63
+L0017,2025-01-06,Tax 9565,tax,-1708.68
+L0018,2025-01-07,INV-6363 Fabrikam Inc,customer_payment,2483.93
+L0019,2025-01-07,Rent 4673,rent,-409.75
+L0020,2025-01-08,Cheque 7041 uncashed,supplier,-2280.24
+L0021,2025-01-08,INV-6039 Adventure Works,customer_payment,3084.28
+L0022,2025-01-08,Utilities 4404,utilities,-1156.37
+L0023,2025-01-09,Globex Parts 3103,supplier,-2541.84
+L0024,2025-01-09,INV-6155 Fabrikam Inc,customer_payment,3536.38
+L0025,2025-01-09,Supplier invoice 1046,supplier,-2772.20
+L0026,2025-01-10,Globex Parts 7505,supplier,-1944.63
+L0027,2025-01-10,INV-2638 Contoso Ltd,customer_payment,2918.75
+L0028,2025-01-10,Rent 8953,rent,-1173.21
+L0029,2025-01-11,INV-4788 Wingtip Corp,customer_payment,3738.29
+L0030,2025-01-11,INV-7105 Fabrikam Inc,customer_payment,688.79
+L0031,2025-01-11,Payroll 8564,payroll,-1002.78
+L0032,2025-01-11,Utilities 2113,utilities,-1283.14
+L0033,2025-01-12,INV-7625 Fabrikam Inc,customer_payment,1705.40
+L0034,2025-01-12,Payroll 6085,payroll,-1227.76
+L0035,2025-01-12,Rent 1722,rent,-68.58
+L0036,2025-01-12,Rent 2899,rent,-2169.04
+L0037,2025-01-13,INV-9856 Contoso Ltd,customer_payment,588.96
+L0038,2025-01-13,Tax 6977,tax,-902.77
+L0039,2025-01-14,INV-2584 Tailspin Co,customer_payment,1903.31
+L0040,2025-01-14,INV-7022 Contoso Ltd,customer_payment,2035.60
+L0041,2025-01-14,Utilities 8711,utilities,-1216.19
+L0042,2025-01-15,Globex Parts 5173,supplier,-282.71
+L0043,2025-01-15,Rent 4923,rent,-353.69
+L0044,2025-01-16,INV-2049 Tailspin Co,customer_payment,210.28
+L0045,2025-01-16,Payroll 9165,payroll,-1580.19
+L0046,2025-01-16,Tax 2291,tax,-2944.28
+L0047,2025-01-17,Acme Supplies 7455,supplier,-192.09
+L0048,2025-01-17,INV-6974 Contoso Ltd,customer_payment,1975.95
+L0049,2025-01-17,INV-7211 Fabrikam Inc,customer_payment,3327.07
+L0050,2025-01-17,Payroll batch item 3529,payroll,-298.07
+L0051,2025-01-17,Payroll batch item 7512,payroll,-1051.75
+L0052,2025-01-17,Payroll batch item 9742,payroll,-698.08
+L0053,2025-01-17,Tax 2680,tax,-114.30
+L0054,2025-01-18,Acme Supplies 5186,supplier,-219.05
+L0055,2025-01-18,Acme Supplies 7912,supplier,-216.63
+L0056,2025-01-18,INV-2753 Adventure Works,customer_payment,914.99
+L0057,2025-01-18,INV-9830 Tailspin Co,customer_payment,3164.91
+L0058,2025-01-18,Payroll batch item 5342,payroll,-643.75
+L0059,2025-01-18,Rent 7798,rent,-1831.92
+L0060,2025-01-18,Utilities 1771,utilities,-624.87
+L0061,2025-01-19,INV-1502 Contoso Ltd,customer_payment,4084.81
+L0062,2025-01-19,INV-9984 Tailspin Co,customer_payment,544.36
+L0063,2025-01-19,Payroll batch item 6383,payroll,-1317.18
+L0064,2025-01-20,INV-2099 Contoso Ltd,customer_payment,3800.92
+L0065,2025-01-20,Rent 3426,rent,-2303.32
+L0066,2025-01-20,Tax 2040,tax,-2067.28
+L0067,2025-01-20,Utilities 7797,utilities,-2186.99
+L0068,2025-01-21,INV-6314 Adventure Works,customer_payment,2140.14
+L0069,2025-01-21,INV-8381 Adventure Works,customer_payment,2563.69
+L0070,2025-01-21,Payroll batch item 2886,payroll,-813.85
+L0071,2025-01-21,Payroll batch item 5835,payroll,-1178.53
+L0072,2025-01-21,Payroll batch item 8056,payroll,-390.80
+L0073,2025-01-21,Tax 8373,tax,-1408.91
+L0074,2025-01-22,Payroll batch item 1753,payroll,-625.16
+L0075,2025-01-22,Payroll batch item 3306,payroll,-1188.48
+L0076,2025-01-22,Payroll batch item 5806,payroll,-669.84
+L0077,2025-01-22,Payroll batch item 7511,payroll,-1467.81
+L0078,2025-01-22,Payroll batch item 9702,payroll,-740.08
+L0079,2025-01-22,Rent 9445,rent,-1807.35
+L0080,2025-01-23,Acme Supplies 3116,supplier,-858.76
+L0081,2025-01-23,Cheque 9095 uncashed,supplier,-1316.22
+L0082,2025-01-23,Utilities 3938,utilities,-1791.60
+L0083,2025-01-23,Utilities 5889,utilities,-2711.61
+L0084,2025-01-25,INV-6912 Fabrikam Inc,customer_payment,1684.75
+L0085,2025-01-25,Payroll 7912,payroll,-1012.00
+L0086,2025-01-26,INV-1757 Fabrikam Inc,customer_payment,2591.08
+L0087,2025-01-26,Tax 6728,tax,-1650.07
+L0088,2025-01-27,Stark Logistics 6279,supplier,-2487.87
+L0089,2025-01-27,Utilities 6794,utilities,-2985.40
+L0090,2025-01-28,INV-4743 Wingtip Corp,customer_payment,2454.80
+L0091,2025-01-28,Payroll 6107,payroll,-2141.86
+L0092,2025-01-28,Payroll 6718,payroll,-410.66
+L0093,2025-01-29,INV-8956 Contoso Ltd,customer_payment,2138.73
+L0094,2025-01-29,INV-9486 Wingtip Corp,customer_payment,363.28
+L0095,2025-01-30,INV-4155 Tailspin Co,customer_payment,726.81
+L0096,2025-01-30,INV-4164 Wingtip Corp,customer_payment,1821.03
+L0097,2025-01-30,Rent 7572,rent,-1453.73
+L0098,2025-01-30,Wayne Materials 4241,supplier,-2278.95
+L0099,2025-01-31,INV-8956 Wingtip Corp,customer_payment,1220.65
+L0100,2025-01-31,Supplier invoice 1992,supplier,-4403.03
+L0101,2025-01-31,Utilities 2403,utilities,-2597.98
+L0102,2025-02-01,INV-1090 Contoso Ltd,customer_payment,2328.99
+L0103,2025-02-01,Payroll 8179,payroll,-2898.02
+L0104,2025-02-01,Rent 9540,rent,-2590.68
+L0105,2025-02-01,Stark Logistics 7209,supplier,-1813.68
+L0106,2025-02-02,Tax 1317,tax,-2878.10
+L0107,2025-02-02,Tax 2869,tax,-392.58
+L0108,2025-02-03,INV-5349 Contoso Ltd,customer_payment,668.34
+L0109,2025-02-03,INV-6147 Fabrikam Inc,customer_payment,1492.58
+L0110,2025-02-03,Wayne Materials 5526,supplier,-2963.94
+L0111,2025-02-04,Globex Parts 6313,supplier,-343.27
+L0112,2025-02-04,INV-4450 Tailspin Co,customer_payment,1167.43
+L0113,2025-02-04,INV-6567 Tailspin Co,customer_payment,3884.16
+L0114,2025-02-04,Rent 2827,rent,-1588.78
+L0115,2025-02-04,Rent 5891,rent,-2617.12
+L0116,2025-02-04,Rent 8178,rent,-2591.28
+L0117,2025-02-04,Tax 8736,tax,-1327.85
+L0118,2025-02-04,Umbrella Trading 8616,supplier,-2333.66
+L0119,2025-02-05,Cheque 1920 uncashed,supplier,-1022.59
+L0120,2025-02-05,INV-8030 Adventure Works,customer_payment,3209.93
+L0121,2025-02-05,Payroll batch item 5465,payroll,-1288.51
+L0122,2025-02-05,Payroll batch item 6994,payroll,-895.79
+L0123,2025-02-05,Payroll batch item 7484,payroll,-559.76
+L0124,2025-02-05,Payroll batch item 7807,payroll,-430.21
+L0125,2025-02-05,Rent 6753,rent,-2720.75
+L0126,2025-02-05,Supplier invoice 2801,supplier,-2117.16
+L0127,2025-02-05,Utilities 8260,utilities,-2935.28
+L0128,2025-02-06,Acme Supplies 8972,supplier,-665.10
+L0129,2025-02-06,INV-2697 Adventure Works,customer_payment,3347.87
+L0130,2025-02-06,INV-6502 Tailspin Co,customer_payment,2931.95
+L0131,2025-02-06,Tax 6582,tax,-1016.59
+L0132,2025-02-07,INV-1958 Adventure Works,customer_payment,3957.38
+L0133,2025-02-07,Initech Goods 4150,supplier,-414.66
+L0134,2025-02-07,Payroll batch item 1803,payroll,-1393.56
+L0135,2025-02-07,Payroll batch item 3165,payroll,-1230.89
+L0136,2025-02-07,Payroll batch item 5847,payroll,-1116.55
+L0137,2025-02-07,Payroll batch item 8916,payroll,-339.79
+L0138,2025-02-07,Umbrella Trading 2887,supplier,-304.11
+L0139,2025-02-08,Acme Supplies 1672,supplier,-1870.34
+L0140,2025-02-08,Acme Supplies 5905,supplier,-593.09
+L0141,2025-02-08,INV-1510 Contoso Ltd,customer_payment,2601.46
+L0142,2025-02-08,INV-5066 Contoso Ltd,customer_payment,3025.90
+L0143,2025-02-08,Payroll batch item 1588,payroll,-1009.31
+L0144,2025-02-08,Payroll batch item 2480,payroll,-768.81
+L0145,2025-02-08,Payroll batch item 5708,payroll,-498.17
+L0146,2025-02-08,Payroll batch item 7248,payroll,-949.63
+L0147,2025-02-08,Supplier invoice 5986,supplier,-4881.29
+L0148,2025-02-08,Umbrella Trading 4460,supplier,-219.05
+L0149,2025-02-10,INV-5176 Tailspin Co,customer_payment,2437.47
+L0150,2025-02-10,Payroll batch item 2646,payroll,-781.53
+L0151,2025-02-10,Payroll batch item 4846,payroll,-1027.27
+L0152,2025-02-11,Tax 5558,tax,-2260.21
+L0153,2025-02-11,Utilities 2496,utilities,-1250.22
+L0154,2025-02-12,Rent 3647,rent,-2366.49
+L0155,2025-02-12,Tax 2020,tax,-1134.40
+L0156,2025-02-13,INV-7815 Contoso Ltd,customer_payment,4538.05
+L0157,2025-02-13,Tax 3704,tax,-2500.47
+L0158,2025-02-13,Wayne Materials 4630,supplier,-737.83
+L0159,2025-02-16,Initech Goods 2443,supplier,-1161.76
+L0160,2025-02-16,Payroll batch item 4626,payroll,-1048.89
+L0161,2025-02-17,INV-2876 Fabrikam Inc,customer_payment,1730.73
+L0162,2025-02-17,Rent 2169,rent,-947.25
+L0163,2025-02-17,Supplier invoice 9017,supplier,-4994.86
+L0164,2025-02-18,INV-8433 Adventure Works,customer_payment,3332.05
+L0165,2025-02-18,Payroll batch item 4830,payroll,-817.97
+L0166,2025-02-18,Payroll batch item 6374,payroll,-1399.64
+L0167,2025-02-18,Payroll batch item 8606,payroll,-1391.95
+L0168,2025-02-18,Rent 4090,rent,-1302.02
+L0169,2025-02-18,Stark Logistics 9725,supplier,-858.76
+L0170,2025-02-18,Tax 9669,tax,-1368.13
+L0171,2025-02-19,INV-7730 Contoso Ltd,customer_payment,1768.16
+L0172,2025-02-19,INV-8454 Tailspin Co,customer_payment,2317.77
+L0173,2025-02-20,INV-5915 Wingtip Corp,customer_payment,1757.67
+L0174,2025-02-20,Payroll 2245,payroll,-1323.23
+L0175,2025-02-20,Stark Logistics 6083,supplier,-737.83
+L0176,2025-02-20,Supplier invoice 4475,supplier,-3492.82
+L0177,2025-02-21,INV-5033 Adventure Works,customer_payment,3216.99
+L0178,2025-02-21,Initech Goods 1452,supplier,-654.72
+L0179,2025-02-21,Payroll 7209,payroll,-61.30
+L0180,2025-02-21,Utilities 5073,utilities,-1054.48
+L0181,2025-02-22,INV-2588 Wingtip Corp,customer_payment,1957.53
+L0182,2025-02-22,INV-7929 Contoso Ltd,customer_payment,2053.87
+L0183,2025-02-22,Payroll 4878,payroll,-901.97
+L0184,2025-02-22,Payroll 5371,payroll,-884.65
+L0185,2025-02-22,Utilities 3634,utilities,-1779.12
+L0186,2025-02-23,Initech Goods 5475,supplier,-1719.62
+L0187,2025-02-23,Stark Logistics 4613,supplier,-2609.72
+L0188,2025-02-23,Utilities 8102,utilities,-1948.90
+L0189,2025-02-23,Wayne Materials 1320,supplier,-2044.29
+L0190,2025-02-24,Payroll 4527,payroll,-1814.72
+L0191,2025-02-24,Payroll batch item 6977,payroll,-1159.91
+L0192,2025-02-24,Tax 6930,tax,-1199.87
+L0193,2025-02-24,Utilities 2612,utilities,-367.78
+L0194,2025-02-24,Utilities 9289,utilities,-1839.03
+L0195,2025-02-25,Globex Parts 2734,supplier,-1161.76
+L0196,2025-02-25,INV-1053 Tailspin Co,customer_payment,2724.51
+L0197,2025-02-25,INV-6409 Adventure Works,customer_payment,1745.82
+L0198,2025-02-25,INV-9821 Fabrikam Inc,customer_payment,2009.56
+L0199,2025-02-25,Stark Logistics 2816,supplier,-665.10
+L0200,2025-02-25,Tax 2494,tax,-2514.20
+L0201,2025-02-26,Acme Supplies 7947,supplier,-1719.62
+L0202,2025-02-26,Cheque 2118 uncashed,supplier,-1329.24
+L0203,2025-02-26,Cheque 5961 uncashed,supplier,-2187.53
+L0204,2025-02-26,INV-5982 Wingtip Corp,customer_payment,1527.35
+L0205,2025-02-26,INV-6277 Adventure Works,customer_payment,585.30
+L0206,2025-02-26,INV-8025 Tailspin Co,customer_payment,3081.25
+L0207,2025-02-26,Payroll 9375,payroll,-2530.85
+L0208,2025-02-26,Payroll batch item 2476,payroll,-1392.26
+L0209,2025-02-27,Payroll batch item 9955,payroll,-407.06
+L0210,2025-02-27,Rent 6446,rent,-2943.63
+L0211,2025-02-27,Supplier invoice 9543,supplier,-4396.25
+L0212,2025-02-28,Payroll batch item 5097,payroll,-798.78
+L0213,2025-02-28,Payroll batch item 5901,payroll,-1037.46
+L0214,2025-02-28,Tax 3885,tax,-2785.45
+L0215,2025-03-01,Cheque 8404 uncashed,supplier,-198.58
+L0216,2025-03-01,Payroll batch item 8237,payroll,-1438.93
+L0217,2025-03-01,Stark Logistics 6198,supplier,-2370.35
+L0218,2025-03-02,Tax 5557,tax,-1001.52
+L0219,2025-03-02,Tax 7325,tax,-847.46
+L0220,2025-03-03,INV-2768 Wingtip Corp,customer_payment,4642.28
+L0221,2025-03-03,INV-6763 Tailspin Co,customer_payment,2144.65
+L0222,2025-03-03,INV-9595 Adventure Works,customer_payment,1583.72
+L0223,2025-03-04,INV-1878 Fabrikam Inc,customer_payment,882.22
+L0224,2025-03-04,Wayne Materials 8242,supplier,-1719.62
+L0225,2025-03-05,INV-7561 Adventure Works,customer_payment,292.39
+L0226,2025-03-05,Initech Goods 8055,supplier,-858.76
+L0227,2025-03-05,Payroll 8988,payroll,-1162.11
+L0228,2025-03-05,Supplier invoice 8432,supplier,-1817.61
+L0229,2025-03-05,Tax 3340,tax,-1438.73
+L0230,2025-03-06,Cheque 2215 uncashed,supplier,-913.71
+L0231,2025-03-06,INV-8900 Fabrikam Inc,customer_payment,1315.36
+L0232,2025-03-08,Tax 8242,tax,-320.59
+L0233,2025-03-08,Utilities 4954,utilities,-2180.85
+L0234,2025-03-09,INV-8432 Tailspin Co,customer_payment,1327.91
+L0235,2025-03-09,Initech Goods 6053,supplier,-665.10
+L0236,2025-03-09,Initech Goods 9005,supplier,-152.11
+L0237,2025-03-09,Umbrella Trading 2288,supplier,-737.83
+L0238,2025-03-10,INV-1745 Contoso Ltd,customer_payment,3001.19
+L0239,2025-03-10,Payroll 4138,payroll,-1184.47
+L0240,2025-03-10,Payroll 8573,payroll,-2039.43
+L0241,2025-03-11,INV-3441 Tailspin Co,customer_payment,845.72
+L0242,2025-03-11,INV-6138 Contoso Ltd,customer_payment,362.89
+L0243,2025-03-11,INV-8744 Fabrikam Inc,customer_payment,2579.74
+L0244,2025-03-11,Payroll batch item 5295,payroll,-966.19
+L0245,2025-03-11,Utilities 1653,utilities,-2315.07
+L0246,2025-03-12,Acme Supplies 2832,supplier,-444.49
+L0247,2025-03-12,INV-4122 Adventure Works,customer_payment,2764.64
+L0248,2025-03-12,INV-9645 Adventure Works,customer_payment,2318.46
+L0249,2025-03-12,Payroll batch item 4945,payroll,-852.30
+L0250,2025-03-12,Payroll batch item 7038,payroll,-1081.88
+L0251,2025-03-12,Payroll batch item 7267,payroll,-1012.26
+L0252,2025-03-12,Payroll batch item 9791,payroll,-361.99
+L0253,2025-03-12,Tax 5438,tax,-1657.58
+L0254,2025-03-12,Utilities 2876,utilities,-2865.27
+L0255,2025-03-13,INV-2988 Wingtip Corp,customer_payment,799.08
+L0256,2025-03-13,INV-6400 Contoso Ltd,customer_payment,514.47
+L0257,2025-03-13,Payroll batch item 7464,payroll,-218.24
+L0258,2025-03-13,Tax 3536,tax,-1045.61
+L0259,2025-03-13,Tax 9041,tax,-2399.72
+L0260,2025-03-14,Acme Supplies 5978,supplier,-1554.25
+L0261,2025-03-14,Cheque 6295 uncashed,supplier,-2365.57
+L0262,2025-03-14,Cheque 8354 uncashed,supplier,-1885.55
+L0263,2025-03-14,Payroll batch item 1153,payroll,-1378.21
+L0264,2025-03-14,Payroll batch item 3868,payroll,-303.50
+L0265,2025-03-15,Initech Goods 7626,supplier,-304.11
+L0266,2025-03-15,Payroll batch item 8529,payroll,-534.66
+L0267,2025-03-15,Utilities 5415,utilities,-260.92
+L0268,2025-03-16,Globex Parts 1931,supplier,-2712.48
+L0269,2025-03-16,INV-6111 Adventure Works,customer_payment,3651.25
+L0270,2025-03-16,Payroll batch item 8555,payroll,-1036.11
+L0271,2025-03-16,Stark Logistics 6632,supplier,-2280.86
+L0272,2025-03-17,Globex Parts 1117,supplier,-422.20
+L0273,2025-03-17,INV-1106 Fabrikam Inc,customer_payment,3760.26
+L0274,2025-03-17,INV-5022 Contoso Ltd,customer_payment,1562.38
+L0275,2025-03-17,Payroll batch item 3240,payroll,-1023.45
+L0276,2025-03-18,INV-3549 Fabrikam Inc,customer_payment,645.41
+L0277,2025-03-18,Payroll batch item 4588,payroll,-1034.42
+L0278,2025-03-18,Payroll batch item 4770,payroll,-995.69
+L0279,2025-03-18,Rent 8149,rent,-2731.32
+L0280,2025-03-19,Globex Parts 9561,supplier,-2044.27
+L0281,2025-03-19,INV-1711 Wingtip Corp,customer_payment,2911.37
+L0282,2025-03-19,INV-2874 Adventure Works,customer_payment,2455.48
+L0283,2025-03-19,INV-7126 Fabrikam Inc,customer_payment,2927.89
+L0284,2025-03-19,Payroll batch item 1645,payroll,-604.92
+L0285,2025-03-19,Payroll batch item 5106,payroll,-1088.35
+L0286,2025-03-20,Supplier invoice 8285,supplier,-4879.40
+L0287,2025-03-20,Umbrella Trading 9976,supplier,-2387.87
+L0288,2025-03-20,Utilities 8461,utilities,-2222.86
+L0289,2025-03-21,Acme Supplies 8538,supplier,-1161.76
+L0290,2025-03-21,INV-1430 Adventure Works,customer_payment,3416.89
+L0291,2025-03-22,Cheque 6179 uncashed,supplier,-495.72
+L0292,2025-03-22,INV-2104 Contoso Ltd,customer_payment,1832.39
+L0293,2025-03-22,INV-8206 Contoso Ltd,customer_payment,3841.03
+L0294,2025-03-22,Tax 9099,tax,-2145.33
+L0295,2025-03-23,INV-5506 Fabrikam Inc,customer_payment,1270.26
+L0296,2025-03-23,Stark Logistics 7843,supplier,-304.11
+L0297,2025-03-23,Umbrella Trading 5114,supplier,-316.33
+L0298,2025-03-24,Supplier invoice 4362,supplier,-823.94
+L0299,2025-03-25,INV-1508 Fabrikam Inc,customer_payment,1145.22
+L0300,2025-03-26,INV-1474 Fabrikam Inc,customer_payment,4548.76
+L0301,2025-03-26,INV-4929 Fabrikam Inc,customer_payment,2994.02
+L0302,2025-03-26,Rent 9308,rent,-1671.54
+L0303,2025-03-26,Supplier invoice 6304,supplier,-870.32
+L0304,2025-03-27,INV-4571 Wingtip Corp,customer_payment,3767.21
+L0305,2025-03-27,Tax 5844,tax,-2956.71
+L0306,2025-03-27,Tax 9479,tax,-2417.08
